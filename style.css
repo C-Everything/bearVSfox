@@ -1,0 +1,21 @@
+
+h1 {
+    background-color: brown;
+}
+
+.clu {
+    background-color: green;
+}
+.vulpe {
+    background-image:url("https://lh3.googleusercontent.com/proxy/49Pev6zqxvjGZNqFNWcFAfpMk7wg-e6GURE0vyOx1Mubl4iup7eM0Pn1YItiJazwQS6eteqBdSv5AsBJixkoFOPnXi6zoT10EQ18QT9yW2xDsPyZyWRPvQDax8xqk0kaDGx75aUtBUBg") ;
+    background-size: cover;
+}
+.vulpe h1 {
+    color: orange;
+}
+header {
+width: 100%;
+height: fit-content;
+position: sticky;
+top: 0;
+}
