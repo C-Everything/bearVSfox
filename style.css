@@ -34,6 +34,13 @@
     position: relative;
     margin: 0 auto;
   }
+
+  .outer {
+    width: auto;
+    height: 960px;
+    position:  relative;
+    margin: 0 auto;
+  }
   
   header {
     position: fixed;
@@ -115,7 +122,11 @@
     padding-top: 200px;
   }
   
-
+.versusD {
+  width: auto;
+  height: 250px;
+  background-color: bisque;
+}
 
 h1 {
     background-color: brown;
